@@ -21,9 +21,9 @@ import { Link } from "react-router-dom";
 const LayoutHeader = () => {
   const username = "john.doe";
   const employee = {
-    name: "John Doe",
+    name: "Mochamad Rizky ",
     nip: "123456789",
-    photo: "https://github.com/evilrabbit.png",
+    photo: "https://ui-avatars.com/api/?name=Mochamad%20Rizky",
     sik_user_id: null,
   };
 
